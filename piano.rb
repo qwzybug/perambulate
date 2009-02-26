@@ -1,3 +1,9 @@
+#
+# A simple piano keyboard widget.
+# This helps it work on OS X: http://vimeo.com/1503168
+# I heard a rumor Windows Vista plays piano on its own.
+# 
+
 Shoes.setup do
   gem 'midiator'
 end
